@@ -68,20 +68,6 @@ Weather-Prediction-ML/
 └── .gitignore
 ```
 
----
-
-## 📊 Visual Results
-
-### 🔥 Correlation Heatmap
-
-![Heatmap](images/heatmap.png)
-
-### 📦 Feature Distribution (Boxplot)
-
-![Boxplot](images/boxplot.png)
-
----
-
 ## 🤖 Machine Learning Models
 
 * Logistic Regression
